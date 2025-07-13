@@ -45,5 +45,11 @@ This project demonstrates an **Event-Driven E-Commerce Order Service** using:
 - Kafka topics:
   - `order.events`
   - `order.dlq`
+    
+
+## Flow
+
+<img width="1024" height="1024" alt="ecommerce-dual-write" src="https://github.com/user-attachments/assets/baaa2ea0-7c2d-450f-9627-17ff521454d4" />
+
 
 
